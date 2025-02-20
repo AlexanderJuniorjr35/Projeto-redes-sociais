@@ -50,8 +50,12 @@ bash
 Copiar
 Editar
 
+---
+
 cd Projeto-redes-sociais
 Abra o arquivo index.html no navegador
+
+---
 
 🛠 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -59,14 +63,18 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 HTML5 - Estrutura da página
 CSS3 - Estilização e responsividade
 
+---
+
 🤝 Contribuição
 Se quiser contribuir para este projeto, siga estas etapas:
-
+---
 Faça um fork do repositório
 Crie uma nova branch:
 bash
 Copiar
 Editar
+
+---
 
 git checkout -b minha-feature
 Faça as alterações e commit:
@@ -74,20 +82,30 @@ bash
 Copiar
 Editar
 
+---
+
 git commit -m "Minha nova feature"
 Envie para o repositório remoto:
 bash
 Copiar
 Editar
 
+---
+
 git push origin minha-feature
 Abra um Pull Request
+
+---
 
 📜 Licença
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
 
+---
+
 📞 Contato
 Para dúvidas ou sugestões:
+
+---
 
 Nome: Alexander Junior
 E-mail: alexandercosta16@hotmail.com
