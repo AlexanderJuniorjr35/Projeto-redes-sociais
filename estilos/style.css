@@ -13,7 +13,7 @@ html,body {
 }
 
 body {
-    background: url('../imagens/fundo.jpg')no-repeat top center;
+    background: url('../imagens/fundo.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -51,6 +51,7 @@ section#redes-sociais img {
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 section#redes-sociais img:hover {
